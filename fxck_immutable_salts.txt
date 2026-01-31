@@ -1,0 +1,13 @@
+# 你知道为什么我要在文件名上加上“fxck”吗？
+# 因为我发现没人这样将AI生成的内容取哈希作盐，我很生气
+# 我心里想“难道绝对无穷年后也没有人这样做吗？”于是，我就愤怒的骂了一句“fxck”来骂自己“我在别人眼里是个大傻操”。
+# 我录屏时播放AI生成的视频，录好屏以后将文件放到一个叫“Starrytool”的网站上进行哈希校验
+# 因为用“Windows+Shift+S”键的录屏功能录屏总是会停，所以我换成了必剪的录屏功能。
+# 进行哈希校验的网址：https://www.starrytool.com/zh-cn/sha3-256-checksum.html
+# 下面是我将AI生成的内容取SHA3_256的哈希：
+
+1. 1efab8ad12e92096487b894fd9500048686b7762985bb9bbc28d8102d0decd3e
+2. ee5d961da544e23830b5bff3da08dafb5d7002b08f4b407ca8671652aaa91041
+3. 0c97a2b6fae0b071b43761cb532f29d6ba2a5fedef2a3002b11d8956c03cf7e9
+4. 7eadf63798d64ea5cd39e21b687eef493832593989ef3c25a7e589a8429650c0
+5. 9222c7046082d3c8e8a1f572f888d3d61f2a18d1f8fc2ac64c12bbf0eedf6628
