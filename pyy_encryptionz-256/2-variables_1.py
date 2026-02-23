@@ -119,17 +119,17 @@ def hash0(t):
     h = __sha256__()
     return h.hash(t)
     
-def hash1(t): # 将 hash1 的 self.H 的第一个参数改为 0x6a09e668
+def hash1(t): # 将 hash0 的 self.H 的第一个参数改为 0x6a09e668
     h = __sha256__()
     h.H[0] = 0x6a09e668
     return h.hash(t)
     
-def hash2(t): # 将 hash1 的 self.H 的第一个参数改为 0x6a09e666
+def hash2(t): # 将 hash0 的 self.H 的第一个参数改为 0x6a09e666
     h = __sha256__()
     h.H[0] = 0x6a09e666
     return h.hash(t)
 
-def hash3(t): # 将 hash1 的 self.H 的第一个参数改为 0x6a09e665
+def hash3(t): # 将 hash0 的 self.H 的第一个参数改为 0x6a09e665
     h = __sha256__()
     h.H[0] = 0x6a09e665
     return h.hash(t)
